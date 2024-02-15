@@ -1,4 +1,4 @@
 
-<img src="wave.svg" width="100%">
+<img src="wave.svg" width="100%" >
 
 # ඞ
