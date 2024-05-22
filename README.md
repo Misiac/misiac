@@ -1,6 +1,6 @@
 <img src="wave.svg" width="100%" >
 
-# Hi! 👋️
+# Hi! 
 I'm an aspiring Java Backend Developer with a passion for Spring Boot backend development. I'm dedicated to learning and growing in this field to build robust and scalable applications.
 I like to have fun coding!
 
